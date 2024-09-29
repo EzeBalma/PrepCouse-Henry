@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-este es un repositorio de prueba del curso full stack de Henry
+este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a la carpeta en mi computadore /SoyHenry
